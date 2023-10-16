@@ -381,3 +381,16 @@ export const Projects = [
     ],
   },
 ];
+
+export const University = {
+  name: "Green University of Bangladesh",
+  degree: "BSc in Computer Science and Engineering",
+  cgpa: 3.33,
+  points: [
+    "Advanced my understanding of core computer science principles and programming languages, including C and Java.",
+    "Developed a strong foundation in problem-solving and algorithmic thinking.",
+    "Gained practical experience in database management and web development, with a focus on PHP.",
+    "Acquired the ability to adapt quickly to new programming languages and technologies.",
+    "Actively participated in group projects and coding challenges to enhance teamwork and problem-solving skills.",
+  ],
+};
